@@ -1,0 +1,266 @@
+{
+"status": "ok",
+"totalResults": 621,
+"articles": [
+{
+"source": {
+"id": "techcrunch",
+"name": "TechCrunch"
+},
+"author": "Kate Park",
+"title": "Apple announces new settlement with Japan allowing developers to link to external websites",
+"description": "Apple has made a settlement with Japanese regulator that it will allow developers of “reader” apps link to their own website for managing users account. The change goes to effect in early 2022. This settlement comes after the Japan Fair Trade Commission (JFTC…",
+"url": "http://techcrunch.com/2021/09/01/appleannouncednewsettlementwithjapanallowingdeveloperstolinktoexternalwebsite/",
+"urlToImage": "https://techcrunch.com/wpcontent/uploads/2021/08/0639e4eb324544a0a52ad480bf11e3da1.jpg?w=600",
+"publishedAt": "20210902T02:00:19Z",
+"content": "Apple has made a settlement with Japanese regulator that it will allow developers of reader apps link to their own website for managing users account. The change goes to effect in early 2022.\r\nThis s… [+1570 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "New York Times"
+},
+"author": "Kellen Browning",
+"title": "Apple Plans Another Tweak to Its Strict App Store Rules",
+"description": "The change, which affects apps like Spotify and Netflix, will allow developers to steer users to their websites rather than the App Store.",
+"url": "https://www.nytimes.com/2021/09/01/technology/appleappstorespotify.html",
+"urlToImage": "https://static01.nyt.com/images/2021/09/01/business/01apple/01applefacebookJumbo.jpg",
+"publishedAt": "20210902T02:24:22Z",
+"content": "Apple said on Wednesday that it was adjusting its App Store policies to allow certain kinds of applications to do business more directly with their customers.\r\nUnder the change, socalled reader apps… [+842 chars]"
+},
+{
+"source": {
+"id": "reuters",
+"name": "Reuters"
+},
+"author": "Reuters",
+"title": "Apple says Japan Fair Trade Commission closes App Store investigation  Reuters",
+"description": "Apple Inc <a href=\"https://www.reuters.com/companies/AAPL.O\" target=\"_blank\">(AAPL.O)</a><a href=\"https://apple.co/3kITzks\" target=\"_blank\">said</a> late on Wednesday that an update was coming to the App Store, which closed an investigation by the Japan Fair …",
+"url": "https://www.reuters.com/technology/applesaysjapanfairtradecommissionclosesappstoreinvestigation20210902/",
+"urlToImage": "https://www.reuters.com/resizer/1H7Us0NgnQhq872OkEea6DQ1dA=/1200x628/smart/filters:quality(80)/cloudfrontuseast2.images.arcpublishing.com/reuters/K3DFBHZFFRKR3NN7WL4WKHMZUE.jpg",
+"publishedAt": "20210902T00:14:00Z",
+"content": "An Apple logo hangs above the entrance to the Apple store on 5th Avenue in the Manhattan borough of New York City, July 21, 2015. REUTERS/Mike Segar/File PhotoSept 1 (Reuters)  Apple Inc (AAPL.O)sai… [+564 chars]"
+},
+{
+"source": {
+"id": "reuters",
+"name": "Reuters"
+},
+"author": "Aditya Kalra",
+"title": "EXCLUSIVE Apple hit with antitrust case in India over inapp payments issues  Reuters",
+"description": "Apple Inc <a href=\"https://www.reuters.com/companies/AAPL.O\" target=\"_blank\">(AAPL.O)</a> is facing an antitrust challenge in India for allegedly abusing its dominant position in the apps market by forcing developers to use its proprietary inapp purchase sys…",
+"url": "https://www.reuters.com/technology/exclusiveapplehitwithantitrustcaseindiaoverinapppaymentsissues20210902/",
+"urlToImage": "https://www.reuters.com/resizer/R8btGUufXQ4iPrv2ubQirYBY79o=/1200x628/smart/filters:quality(80)/cloudfrontuseast2.images.arcpublishing.com/reuters/O4IXKA2XU5NC3GGDGJC5YV27WI.jpg",
+"publishedAt": "20210902T06:59:00Z",
+"content": "NEW DELHI, Sept 2 (Reuters)  Apple Inc (AAPL.O) is facing an antitrust challenge in India for allegedly abusing its dominant position in the apps market by forcing developers to use its proprietary … [+4214 chars]"
+},
+{
+"source": {
+"id": "reuters",
+"name": "Reuters"
+},
+"author": "Reuters",
+"title": "MORNING BID Currencies at a crossroad  Reuters",
+"description": "MORNING BID Currencies at a crossroad  Reuters",
+"url": "https://www.reuters.com/business/morningbidcurrenciescrossroad20210902/",
+"urlToImage": "https://www.reuters.com/resizer/PAiHkxEDyw50UXU2G57PqyMbD_M=/1200x628/smart/filters:quality(80)/cloudfrontuseast2.images.arcpublishing.com/reuters/BYZK7LFLVRM3XJ7PX4Z5FDRHX4.jpg",
+"publishedAt": "20210902T06:57:00Z",
+"content": "The German share price index DAX graph is pictured at the stock exchange in Frankfurt, Germany August 31, 2021. REUTERS/StaffA look at the day ahead from Dhara Ranasinghe.\r\nJust a few weeks ago, it a… [+2501 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "MacRumors"
+},
+"author": "Juli Clover",
+"title": "Apple Letting 'Reader' Apps Offer Links for Account Sign Ups Outside of the App Store to Close Japan Investigation",
+"description": "Apple today announced that the Japan Fair Trade Commission (JFTC) has agreed to close its App Store investigation in exchange for changes to how \"reader\" apps like Netflix operate. Reader apps allow users to browse previously purchased content or content subs…",
+"url": "https://www.macrumors.com/2021/09/01/applereaderappchangesjapanftc/",
+"urlToImage": "https://images.macrumors.com/t/3IdiZzCIZkRZeyEO8xB9edij6Zs=/1600x/https://images.macrumors.com/articlenew/2020/12/appstorebluebanner.jpg",
+"publishedAt": "20210902T00:09:37Z",
+"content": "Apple today announced that the Japan Fair Trade Commission (JFTC) has agreed to close its App Store investigation in exchange for changes to how \"reader\" apps like Netflix operate. Reader apps allow … [+2111 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Freakonomics.com"
+},
+"author": "Stephen J. Dubner",
+"title": "Is There Really a “Loneliness Epidemic”? (Ep. 407 Rebroadcast)",
+"description": "That’s what some health officials are saying, but the data aren’t so clear. We look into what’s known (and not known) about the prevalence and effects of loneliness — including the possible upsides.\nThe post Is There Really a “Loneliness Epidemic”? (Ep. 407 R…",
+"url": "https://freakonomics.com/podcast/lonelinessrebroadcast/",
+"urlToImage": "https://freakonomics.com/wpcontent/uploads/2020/08/fr.fbthumbnail.png",
+"publishedAt": "20210902T03:00:13Z",
+"content": "Thats what some health officials are saying, but the data arent so clear. We look into whats known (and not known) about the prevalence and effects of loneliness including the possible upsides. \r\nLis… [+34013 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Xataka.com"
+},
+"author": "Cristian Rus",
+"title": "Apple cede y permitirá a aplicaciones como Netflix y Spotify ofrecer enlaces para registrarse sin pasar por la App Store",
+"description": "Unos días atrás Apple prometió ligeros cambios para los desarrolladores en Estados Unidos con tal de apaciguar demandas, más reciente aún Corea del Sur ha obligado a que permitan pagos de terceros y ahora es el turno de Japón. Apple ha anunciado que la comisi…",
+"url": "https://www.xataka.com/aplicaciones/applecedepermitiraaaplicacionescomonetflixspotifyofrecerenlacespararegistrarsepasarappstore",
+"urlToImage": "https://i.blogs.es/f62c58/screenshot/840_560.jpg",
+"publishedAt": "20210902T02:02:53Z",
+"content": "Unos días atrás Apple prometió ligeros cambios para los desarrolladores en Estados Unidos con tal de apaciguar demandas, más reciente aún Corea del Sur ha obligado a que permitan pagos de terceros y … [+2769 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Xataka.com"
+},
+"author": "Jose García",
+"title": "AptX Lossless: la música en alta definición llega a los auriculares inalámbricos de la mano de Qualcomm",
+"description": "2021 ha sido el año de la música sin pérdida. Apple anunció hace meses que el sonido Lossless (sin pérdida) y Dolby Atmos llegaba a su Apple Music sin coste adicional y, minutos más tarde, Amazon hacía exactamente lo mismo con Amazon Music HD. El problema es …",
+"url": "https://www.xataka.com/audio/aptxlosslessmusicaaltadefinicionllegaaauricularesinalambricosmanoqualcomm",
+"urlToImage": "https://i.blogs.es/96337e/1024_2000/840_560.jpeg",
+"publishedAt": "20210902T08:00:57Z",
+"content": "2021 ha sido el año de la música sin pérdida. Apple anunció hace meses que el sonido Lossless (sin pérdida) y Dolby Atmos llegaba a su Apple Music sin coste adicional y, minutos más tarde, Amazon hac… [+1974 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Apple Newsroom"
+},
+"author": null,
+"title": "Japan Fair Trade Commission Closes App Store Investigation",
+"description": "Apple will let developers of “reader” apps around the world link to an external website to set up or manage an account beginning early next year.",
+"url": "https://www.apple.com/newsroom/2021/09/japanfairtradecommissionclosesappstoreinvestigation/",
+"urlToImage": "https://www.apple.com/newsroom/images/default/applelogoog.jpg?202109020001",
+"publishedAt": "20210902T00:03:14Z",
+"content": "September 1, 2021\r\nPRESS RELEASE\r\nJapan Fair Trade Commission closes App Store investigation\r\nApple will let developers of reader apps around the world link to an external website to set up or manage… [+3400 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Classlawdc.com"
+},
+"author": null,
+"title": "M1 MacBook Screen Crack Investigation",
+"description": "Migliaccio & Rathod LLP is currently investigating Apple over widespread reports that the retina display in their recent line of M1 MacBook laptops is vulnerable to screen cracks during normal usage. Many users allege that they have opened their devices from …",
+"url": "https://classlawdc.com/2021/08/04/m1macbookscreencrackinvestigation/",
+"urlToImage": null,
+"publishedAt": "20210902T07:10:43Z",
+"content": "Migliaccio &amp; Rathod LLP is currently investigating Apple over widespread reports that the retina display in their recent line of M1 MacBook laptops is vulnerable to screen cracks during normal us… [+1767 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Github.com"
+},
+"author": "GokuMohandas",
+"title": "MadeWithML – A practical approach to learning production machine learning",
+"description": "Learn how to responsibly deliver value with ML. Contribute to GokuMohandas/MadeWithML development by creating an account on GitHub.",
+"url": "https://github.com/GokuMohandas/MadeWithML",
+"urlToImage": "https://repositoryimages.githubusercontent.com/156157055/3a29c26ebae0445dad7e480ce453992a",
+"publishedAt": "20210902T02:51:01Z",
+"content": "Applied ML · MLOps · Production\r\nJoin 30K+ developers in learning how to responsibly deliver value with ML.\r\nFoundations\r\nLearn the foundations of ML through intuitive explanations, clean code and vi… [+2958 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "heise online"
+},
+"author": "Stephan Ehrmann",
+"title": "heiseAngebot: Mac & i special mit über 500 iPhoneTipps jetzt im Handel",
+"description": "Die besten iPhoneTipps aus drei Jahren Mac & i zu iOS, AppleApps und beliebten Anwendungen, für Einsteiger, Fortgeschrittene und Profis in einem Sonderheft.",
+"url": "https://www.heise.de/news/Macispecialmitueber500iPhoneTippsjetztimHandel6178781.html",
+"urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.pnglossy85.webplossy85.foil1/_wwwheisede_/imgs/18/3/1/6/1/1/1/3/Aufmacher_fuer_Tickermeldung13bd56ab50aad90c.png",
+"publishedAt": "20210902T05:00:00Z",
+"content": "Das Mac &amp; i special Herbst 2021 mit über 500 iPhoneTipps gibt es jetzt auch im gut sortierten Zeitschriftenhandel. Sie können es auch bis 9.9. versandkostenfrei im Heise Shop bestellen wahlweise… [+8535 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "9to5Mac"
+},
+"author": "Filipe Espósito",
+"title": "Spotify announces partnership with Delta to provide inflight music service",
+"description": "Spotify announced on Wednesday a new partnership with Delta Air Lines to bring its music streaming service to the company’s inflight seatback entertainment. All passengers will be able to access Spotify content on Delta flights without any extra charges, and…",
+"url": "http://9to5mac.com/2021/09/01/spotifyannouncespartnershipwithdeltatoprovideinflightmusicservice/",
+"urlToImage": "https://i0.wp.com/9to5mac.com/wpcontent/uploads/sites/6/2021/03/spotifyclubhousecompetitor.jpg?resize=1200%2C628&ssl=1",
+"publishedAt": "20210902T01:47:31Z",
+"content": "Spotify announced on Wednesday a new partnership with Delta Air Lines to bring its music streaming service to the companys inflight seatback entertainment. All passengers will be able to access Spot… [+1527 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Lifehacker.jp"
+},
+"author": "ガリレオ",
+"title": "AppleによるiCloudの写真スキャン｜阻止する方法は？",
+"description": "Appleは、iCloudにアップロードされた写真のスキャンに関して、iOS 15およびiPadOS 15から、新しい児童保護ポリシーを適用していく予定です。このポリシーは、Appleが違法な児童ポルノ画像を法執行機関に報告しやすくするためのものです。",
+"url": "https://www.lifehacker.jp/2021/09/howtostopapplefromscanningyouriphonephotos.html",
+"urlToImage": "https://assets.mediaplatform.com/lifehacker/dist/images/2021/08/24/iOS%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%E4%B8%AD%E3%81%AE%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8w960.png",
+"publishedAt": "20210902T07:00:00Z",
+"content": "AppleiCloudiOS 15iPadOS 15\r\nAppleApple\r\nApple\r\niPhoneApple\r\nApple\r\nApple2\r\n1iCloudCSAM\r\nCSAMCenter for Missing and Exploited Children\r\n2iPhoneiPad\r\n1iCloudiCloud\r\niCloudiPhoneiCloudiCloud\r\niCloud30\r\n… [+310 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Lifehacker.jp"
+},
+"author": "春野ユリ",
+"title": "Windowsパソコンで「iCloud Passwords」を設定する方法",
+"description": "Windows PCで「iCloud Passwords」を設定すれば、パスワードの管理がとても便利になりますよ。",
+"url": "https://www.lifehacker.jp/2021/09/240773howtofinallyuseyouricloudpasswordsonwindows.html",
+"urlToImage": "https://assets.mediaplatform.com/lifehacker/dist/images/2021/08/20/c62aebf25f233c187dd9c954dbf9bfb1w960.jpg",
+"publishedAt": "20210902T01:00:00Z",
+"content": "WindowsiCloudWindows PCiCloudiCloud\r\nAppleWindows PC\r\niCloud1Windows PCiCloud\r\nWindowsiCloud Passwords\r\niCloud for Windows12.5iCloud\r\niCloud PasswordsiCloud2Windows PC\r\nWindows Hello\r\niCloud for Wind… [+501 chars]"
+},
+{
+"source": {
+"id": "spiegelonline",
+"name": "Spiegel Online"
+},
+"author": "DER SPIEGEL",
+"title": "Apples Trippelschritt zu mehr AboOptionen",
+"description": "Apple verdient zu gut an Provisionen für Abos, um seinen App Store freiwillig zu öffnen. Unter dem Druck von Regulierern und Entwicklern ändert sich das nun langsam – demnächst vielleicht grundsätzlich.",
+"url": "https://www.spiegel.de/netzwelt/apps/applestrippelschrittzumehrabooptionenae4816e9dae884ae79dcae4c2ec37475a",
+"urlToImage": "https://cdn.prod.www.spiegel.de/images/a99aacf8c5ba43caa49d752b5d332d3a_w1280_r1.77_fpx61.34_fpy50.jpg",
+"publishedAt": "20210902T07:58:51Z",
+"content": "Im Dauerstreit über die finanziellen Rahmenbedingungen im App Store kommt Apple den Anbietern von Apps zum zweiten Mal innerhalb eine Woche entgegen. Das Unternehmen hat sich mit der Japan Fair Trade… [+2807 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "AppleInsider"
+},
+"author": "news@appleinsider.com (AppleInsider Staff)",
+"title": "Apple previews Changsha store in China ahead of grand opening on Sept. 4",
+"description": "Apple on Wednesday offered a sneak peek at Apple Changsha, the company's first retail outlet to open China's Hunan province.Located in the Changsha IFS shopping mall, Apple's latest storefront features all the trappings of a modern Apple Store and a few uniqu…",
+"url": "https://appleinsider.com/articles/21/09/02/applepreviewschangshastoreinchinaaheadofgrandopeningonsept4",
+"urlToImage": "https://photos5.appleinsider.com/gallery/4417085837210902Changshaxl.jpg",
+"publishedAt": "20210902T03:46:09Z",
+"content": "Apple on Wednesday offered a sneak peek at Apple Changsha, the company's first retail outlet to open China's Hunan province.\r\nLocated in the Changsha IFS shopping mall, Apple's latest storefront feat… [+1658 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "AppleInsider"
+},
+"author": "news@appleinsider.com (AppleInsider Staff)",
+"title": "Apple Wallet limits users to one Touch ID finger profile when authenticating state IDs",
+"description": "Apple on Wednesday offered a detailed rundown of Apple Wallet's upcoming support for state IDs and driver's licenses, noting rigid biometric safeguards will be used to secure user information and protect against fraud.Earlier today, Apple revealed the first s…",
+"url": "https://appleinsider.com/articles/21/09/02/applewalletlimitsuserstoonetouchidfingerprofilewhenauthenticatingstateids",
+"urlToImage": "https://photos5.appleinsider.com/gallery/4416985836210901WalletIDxl.jpg",
+"publishedAt": "20210902T02:50:14Z",
+"content": "Apple on Wednesday offered a detailed rundown of Apple Wallet's upcoming support for state IDs and driver's licenses, noting rigid biometric safeguards will be used to secure user information and pro… [+2211 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "AppleInsider"
+},
+"author": "news@appleinsider.com (AppleInsider Staff)",
+"title": "Apple stock hits intraday record after analyst upgrades bear rating",
+"description": "Apple's stock price touched a new intraday high on Wednesday after analyst Jeff Kvaal of Wolfe Research upgraded his rating after nearly a year bearish warnings.The tech giant's stock peaked at a new high of $154.98 in early trading before settling at $152.51…",
+"url": "https://appleinsider.com/articles/21/09/02/applestockhitsintradayrecordafteranalystupgradesbearrating",
+"urlToImage": "https://photos5.appleinsider.com/gallery/4416785834210901NASDAQxl.jpg",
+"publishedAt": "20210902T00:55:15Z",
+"content": "Apple's stock price touched a new intraday high on Wednesday after analyst Jeff Kvaal of Wolfe Research upgraded his rating after nearly a year bearish warnings. \r\nThe tech giant's stock peaked at a … [+1052 chars]"
+}
+]
+}
